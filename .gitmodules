@@ -1,0 +1,3 @@
+[submodule "solidity/cyfrin-updraft/foundry-simple-storage-f23/lib/forge-std"]
+	path = solidity/cyfrin-updraft/foundry-simple-storage-f23/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
